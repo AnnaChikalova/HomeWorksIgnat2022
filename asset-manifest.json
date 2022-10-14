@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HomeWorksIgnat2022/static/css/main.69f81a92.css",
+    "main.js": "/HomeWorksIgnat2022/static/js/main.8cfaa645.js",
+    "index.html": "/HomeWorksIgnat2022/index.html",
+    "main.69f81a92.css.map": "/HomeWorksIgnat2022/static/css/main.69f81a92.css.map",
+    "main.8cfaa645.js.map": "/HomeWorksIgnat2022/static/js/main.8cfaa645.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f81a92.css",
+    "static/js/main.8cfaa645.js"
+  ]
+}
