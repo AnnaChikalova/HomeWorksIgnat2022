@@ -1,0 +1,29 @@
+
+.link a {
+text-decoration: none;
+color: darkviolet;
+padding: 10px;
+}
+.link a:hover{
+   color: gold;
+}
+.link a:active {
+    color: green;
+}
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: darkgreen;
+    margin: 10px;
+}
+.header {
+    display: flex;
+    width: 300px;
+    transition-duration: 500ms;
+    transform: translate(-220px);
+}
+.header:hover {
+    transition-duration: 500ms;
+    transform: translate(0px);
+}
