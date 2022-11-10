@@ -1,0 +1,16 @@
+.item {
+   margin-left:10px;
+   margin-right: 40px;
+   width: 100px;
+   font-size: larger;
+   color: black;
+}
+.high {
+   color:red;
+}
+.middle {
+   color:yellow;
+}
+.low {
+   color:green;
+}
